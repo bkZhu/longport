@@ -1,5 +1,5 @@
 # longport
-to build longport auto trade
+to build a auto trade system
 
 # module
  - data (akshare, real-time, miniute , daily data)
